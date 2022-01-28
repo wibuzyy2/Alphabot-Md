@@ -35,7 +35,7 @@ exports.cmdNotFound = (cmd, prefix) => {
 }
 
 exports.ownerOnly = () => {
-    return `❎ Command ini khusus Owner!`
+    return `😁 Command ini khusus Owner!`
 }
 
 exports.doneOwner = () => {
@@ -47,7 +47,7 @@ exports.groupOnly = () => {
 }
 
 exports.adminOnly = () => {
-    return `😌  Command ini hanya bisa digunakan oleh admin grup!`
+    return `🥱  Emangnya lu admin!`
 }
 
 exports.nhFalse = () => {
@@ -1099,6 +1099,6 @@ exports.tqto = () =>{
 • Rashid
 • ZeeoneOfc
 • Penyedia Module
-• And All Kang Recode
+• All Kang Recode
 `
 }
