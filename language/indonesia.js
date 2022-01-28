@@ -43,11 +43,11 @@ exports.doneOwner = () => {
 }
 
 exports.groupOnly = () => {
-    return `👥  Command ini hanya bisa digunakan di dalam grup!`
+    return `🙀  Command ini hanya bisa digunakan di dalam grup!`
 }
 
 exports.adminOnly = () => {
-    return `🙅  Command ini hanya bisa digunakan oleh admin grup!`
+    return `😌  Command ini hanya bisa digunakan oleh admin grup!`
 }
 
 exports.nhFalse = () => {
@@ -87,15 +87,15 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
+saya ツˣᴿᶻズガx-Md, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
-    return `*Selamat ${salam} ${pushname} 😖*
+    return `*Selamat ${salam} ${pushname} ⚡*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu ツˣᴿᶻズガx-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -593,7 +593,7 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
+	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 😁
 	
 📛 𝖭𝖺𝗆𝖺 :
 🔞 𝖴𝗆𝗎𝗋 :
@@ -602,21 +602,21 @@ exports.welcome = () =>{
 ╰ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 🙀 Mental aman kan kak >.<
 Goodbye`
 }
 exports.source = () =>{
 return`*── 「 SOURCE 」 ──*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://github.com/zeeoneofc/Alphabot-Md
+Base : https://github.com/DikaArdnt/Hisoka-Moro
+Recode : https://github.com/zeeoneofc/Alphabot-M
 `
 }
 exports.tos = (ownernomer) => {
     return `
 *── 「 DONATE 」 ──*
 
-Hai kak ☺️ 
+Hai kak 🥱 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
 Berapapun donasi kalian akan sangat berarti 👍
@@ -1099,6 +1099,6 @@ exports.tqto = () =>{
 • Rashid
 • ZeeoneOfc
 • Penyedia Module
-• And All Support
+• And All Kang Recode
 `
 }
